@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My name is Rahul Pandey. This is for commit testing. I am learning git and ir is my first commit.
+=======
+My name is rahul pandey. This is my first commit in new repository.This commit is for barnch testing.
+>>>>>>> work
